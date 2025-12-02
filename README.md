@@ -91,6 +91,6 @@ The package includes the `area` dataset:
 
 ## Author
 
-**Yaqin Chen** Department of Statistics, UW-Madison
-
-```
+**Yaqin Chen** Department of Statistics, University of Wisconsin-Madison  
+Email: [chenyq077@gmail.com](mailto:chenyq077@gmail.com)  
+GitHub: [@chen-yaqin](https://github.com/chen-yaqin)
