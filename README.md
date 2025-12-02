@@ -1,7 +1,7 @@
 # robust: Least Absolute Deviations Regression
 
 An R package that implements robust regression using **Least Absolute Deviations (LAD)**. It serves as a robust alternative to standard Ordinary Least Squares (OLS) methods, particularly effective for datasets containing outliers.
-
+![LAD Regression Plot](lad_plot.png)
 ## Features
 
 - Implements **SAD (Sum of Absolute Deviations)** minimization using the Nelder-Mead algorithm.
